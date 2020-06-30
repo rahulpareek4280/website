@@ -15,7 +15,7 @@ exclude: true
 [//]: <> Images can be specified with the below syntax in Kramdown.
 [//]: <> Read this for a quick reference: https://kramdown.gettalong.org/syntax.html#images
 
-![Rahul Pareek](assets/img/Rahul_Photograph.png){: .avatar}
+![Rahul Pareek](assets/img/Rahul_Photograph.jpg){: .avatar}
 
 </div>
 
