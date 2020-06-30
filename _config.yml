@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The website for Rahul Pareek, 
   a Senior Associate Consultant, DevOps Enthusiast, and Web Noodler 
   living and working in Pune, India.
-baseurl: "/web" # the subpath of your site, e.g. /blog
+baseurl: "/Rahul_Pareek" # the subpath of your site, e.g. /blog
 url: "https://rahulpareek.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Default date format
