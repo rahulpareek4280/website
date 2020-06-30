@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.page_title -%}
+  <h1 class="page-heading">{{ page.page_title }}</h1>
+  {%- endif -%}
+
+  <div class="home-content">
+    {{ content }}
+  </div>
+</div>
