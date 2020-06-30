@@ -15,7 +15,7 @@ exclude: true
 [//]: <> Images can be specified with the below syntax in Kramdown.
 [//]: <> Read this for a quick reference: https://kramdown.gettalong.org/syntax.html#images
 
-![Somnath Pathak](assets/img/somnathpathak.png){: .avatar}
+![Somnath Pathak](assets/img/Rahul_Photograph.png){: .avatar}
 
 </div>
 
@@ -25,11 +25,11 @@ exclude: true
 [//]: <> Read this for a quick reference: https://kramdown.gettalong.org/syntax.html#block-ials
 
 {: .home-page-summary}
-Hi, my name is Somnath Pathak and I'm a Senior Engineer with experience in full stack development of web apps.
+Hi, my name is Rahul Pareek and I'm a Senior Associate Engineer with experience in DevOps, Cloud and Unix Shell Scripting.
 
-I get by as a back end & database developer, front end developer, UI designer, and motorcycle enthusiast living in Bangalore, India and working for a corporate organisation.
+I have around 4.5 years of experience in Banking domain, Worked with top banking client like Bank of America, ANZ Bank, WorldPay and helped them in Implementing DevOps solutions in their critical Projecs . I live in Pune, India and work for a corporate organisation.
 
-I'm also available for hire as a freelance web developer, designer, or consultant. Drop me a line about your project if you're interested in working with me.
+I'm also available for hire as a freelance, Full-time DevOps consultant. Drop me a line about your project if you're interested in working with me.
 
 </div>
 
