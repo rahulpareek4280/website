@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Somnath Pathak
+title: Rahul Pareek
 author:
-  name: Somnath Pathak
-  email: somnath.jan1@gmail.com
+  name: Rahul Pareek
+  email: rahulpareek2605@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The website for Somnath Pathak, 
-  a Full Stack Developer, Motorcycle Enthusiast, and Web Noodler 
-  living and working in Bangalore, India.
+  The website for Rahul Pareek, 
+  a Senior Associate Consultant, DevOps Enthusiast, and Web Noodler 
+  living and working in Pune, India.
 baseurl: "/web" # the subpath of your site, e.g. /blog
-url: "https://somnathpathak.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rahulpareek.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Default date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -36,14 +36,14 @@ default:
 
 # Generate social links in contact page or footer
 social_links:
-  twitter: somnath_pathak_
-  github:  somnathpathak
+  twitter: rahul_pareek_
+  github:  rahulpareek4280
   # devto: jekyll
   # dribbble: jekyll
-  facebook: somnath.jan1
+  facebook: rahulpareek2065
   # flickr:   jekyll
-  instagram: somnath_pathak
-  linkedin: somnath-pathak
+  instagram: rahulpareek2605
+  linkedin: rahul-pareek
   # pinterest: jekyll
   # youtube: jekyll
   # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
