@@ -1,30 +1,14 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
+title: "Cover Letter"
 date: 2020-06-25 00:47:41 +0530
 categories: posts update
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### Professional Experience
+This blog is in regards to my interest in applying for the position of DevOps Consultant. With a Bachelor’s degree in Computer Science, and hands-on experience in DevOps and Unix shell scripting, I am confident I will be an asset to your organization.
+While pursuing Degree in Computer Science Engineering from RGPV University, I have developed skills in Programming, Development, Networking and Databases. This knowledge has enabled me to operate in Windows and Linux platforms and master multiple skill-sets.
+I started my career as a Project Engineer with Wipro Technologies in November 2015. Working under the direction of a great team, I worked on various tools and technologies Utilizing my academic and professional knowledge, 
+I have dedicated more than four years working in banking domain handling critical applications.Here I gained an opportunity to work on cutting edge technologies, improve existing documentation systems and implement stringent measures to improve the overall automation process.
+I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and the success of your organization.
+I currently work as a Senior Associate Consultant(DevOps and Agile) with Infosys Limited, where I have been able to further strengthen my technical acumen.looking forward to hearing from you in due course.

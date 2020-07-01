@@ -36,7 +36,7 @@ default:
 
 # Generate social links in contact page or footer
 social_links:
-  twitter: rahul_pareek_
+  # twitter: rahul_pareek_
   github:  rahulpareek4280
   # devto: jekyll
   # dribbble: jekyll
