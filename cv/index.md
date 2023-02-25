@@ -11,7 +11,7 @@ permalink: /cv/
 
 ## Rahul Pareek
   
-London United Kingdom  
+London, United Kingdom  
 P: +44 7448520351  
 E: rahulpareek2605@gmail.com  
 
