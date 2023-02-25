@@ -11,8 +11,8 @@ permalink: /cv/
 
 ## Rahul Pareek
   
-Pune India 411057  
-P: +91 93029-43436  
+London United Kingdom  
+P: +44 7448520351  
 E: rahulpareek2605@gmail.com  
 
 Experienced DevOps Engineer with around 4 years of experience in IT industry. Excellent reputation for resolving problems, improving customer satisfaction, and driving overall operational improvements.Consistently saved costs while increasing profits.Highly skilled at collaborating with team members to ship engaging products within deadlines. Looking forward to applying the acquired gamut of skills in a challenging role.
